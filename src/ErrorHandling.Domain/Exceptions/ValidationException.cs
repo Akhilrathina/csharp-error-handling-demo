@@ -35,7 +35,7 @@ public class ValidationException : DomainException
     {
         get
         {
-            if (ValidationErrors.Any())
+            if (ValidationErrors.Count() > 1)
             {
                 var errors = string.Join(
                     "; ",
